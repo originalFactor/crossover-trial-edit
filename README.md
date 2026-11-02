@@ -1,3 +1,7 @@
+## TL;DR
+
+Linux 版直接用就行了，只有吓唬你的弹窗。本项目未完全完成（未去弹窗），待有缘人接力
+
 # CrossOver 26.3.0 试用期改造（Linux，系统安装版）
 
 对象：`/opt/cxoffice`（deb 包 `crossover` 26.3.0-1，root 所有），发行版 Ubuntu 26.04.1。
